@@ -1,3 +1,5 @@
+<img width="1350" height="874" alt="スクリーンショット 2026-10-13 21 51 11" src="https://github.com/user-attachments/assets/a84a6b14-b004-483a-b34f-41c9bae143fa" />
+
 # cute-dogs-vue-ts
 
 This template should help get you started developing with Vue 3 in Vite.
